@@ -5,7 +5,7 @@ table {
 }
 
 td.fila1 {
-    /*background-color: red;*/
+    background-color: red;
 }
 
 th, td {
@@ -16,5 +16,5 @@ th, td {
 }
 
 td.fila2 {
-    /*background-color: yellow;*/
+    background-color: yellow;
 }
